@@ -1,0 +1,2 @@
+# Predicting-Yield-Strength-UTS-and-Elongation-of-CoCrNi-Alloys
+ML prediction Yield Strength, UTS, and Elongation of CoCrNi medium-entropy alloys using compositional and processing parameters. Implemented multi-output Random Forest and Gradient Boosting regression models with evaluation using R² score and RMSE. Includes data analysis, feature importance analysis, and Gaussian noise-based data augmentation
